@@ -1,0 +1,9 @@
+[
+  {
+    "vendor": "vuejs",
+    "component": "vue",
+    "dependency": "component",
+    "license": "MIT",
+    "license_url": "https://raw.githubusercontent.com/vuejs/vue/blob/dev/LICENSE"
+  }
+]
